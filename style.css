@@ -55,7 +55,7 @@ li {
 }
 
 h1 {
-  color: #FFF;
+  color:#ff00ff ;
   font-family: 'Amatic SC', cursive;
   font-size: 72px;
   line-height: 60px;
@@ -64,7 +64,7 @@ h1 {
 }
 
 h2 {
-  color: #000;
+  color: #ff00ff;
   font-family: 'Raleway', sans-serif;
   font-size: 42px;
   font-weight: 300;
@@ -72,7 +72,7 @@ h2 {
 }
 
 h3 {
-  color: #14213D;
+  color: #ff00ff;
   font-family: 'Abel', sans-serif;
   font-size: 28px;
   text-align: center;
@@ -80,14 +80,14 @@ h3 {
 }
 
 h4 {
-  color: #FCA311;
+  color: #ff00ff;
   font-family: 'Abel', sans-serif;
   font-size: 24px;
   margin: 0px 0px 50px 0px;
 }
 
 p {
-  color: #333;
+  color:#ff00ff;
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
   font-weight: 300;
